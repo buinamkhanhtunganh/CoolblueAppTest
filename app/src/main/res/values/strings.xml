@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CoolblueAppTest</string>
+
+    <string name="header">All Products</string>
+    <string name="unknown">Unknown</string>
+    <string name="description">Description</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+
+    <string name="request_error_title">Request failed</string>
+    <string name="request_error_message">The request failed because the server reported an error:\n\n%1$s \n\nPlease try again.</string>
+    <string name="request_error_no_internet">There is no internet connection</string>
 </resources>
